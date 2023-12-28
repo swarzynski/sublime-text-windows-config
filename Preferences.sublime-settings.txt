@@ -1,5 +1,4 @@
 {
-	"color_scheme": "Monokai.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"fallback_encoding": "Central European (Windows 1250)",
 	"draw_white_space": "all",
@@ -20,5 +19,4 @@
 	"tab_size": 4,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
-	"theme": "Default Dark.sublime-theme",
 }
